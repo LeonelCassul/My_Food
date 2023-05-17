@@ -51,3 +51,14 @@ transition: .5s;
 .nav-container  li a:hover{
 color:#3381f3;
 }
+nav:after{
+  clear:both;
+  content: "";
+  display: block;
+}
+
+#logo {
+  width: 65px;
+  height: 65px;
+  margin: 25px;
+}

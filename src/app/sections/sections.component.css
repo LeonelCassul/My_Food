@@ -41,3 +41,9 @@
 .status-text{
   font-size: 20px;
 }
+
+#testmony-container{
+  background: url("/assets/depo.jpg") no repeat;
+  background-size: cover;
+  padding: 10em 0;
+}
